@@ -12,6 +12,7 @@ namespace O2CConsole
         {
             int a;
             int b;
+            int c;
         }
     }
 }
