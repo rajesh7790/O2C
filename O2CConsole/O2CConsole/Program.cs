@@ -11,6 +11,7 @@ namespace O2CConsole
         static void Main(string[] args)
         {
             int a;
+            int b;
         }
     }
 }
